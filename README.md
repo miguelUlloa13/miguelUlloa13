@@ -1,5 +1,11 @@
 # Hola, mi nombre es Miguel Angel Martinez Ulloa 👋
 ### Desarrollador móvil en dispositivos iOS
+
+
+## Encuéntrame en:
+- [Linkedin](https://www.linkedin.com/in/miguel-angel-martinez-ulloa-43b828271/)
+- [Instagram](https://www.instagram.com/miguel.ulloa0713/)
+- [Facebook](https://www.facebook.com/profile.php?id=100091517199797)
 <!--
 **miguelUlloa13/miguelUlloa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
