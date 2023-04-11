@@ -1,4 +1,4 @@
-### Hola, mi nombre es Miguel Angel Martinez Ulloa 👋
+# Hola, mi nombre es Miguel Angel Martinez Ulloa 👋
 ### Desarrollador móvil en dispositivos iOS
 <!--
 **miguelUlloa13/miguelUlloa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
